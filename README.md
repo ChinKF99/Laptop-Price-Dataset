@@ -1,2 +1,6 @@
 # Laptop-Price-Dataset
-Laptop specification & price
+
+**Display the price of the laptop base on 3 criteria:**
+  -Brand
+  =CPU
+  -GPU
